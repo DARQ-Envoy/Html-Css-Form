@@ -6,7 +6,7 @@
 body{
     font-family: sans-serif;
 background: rgba(255, 122, 122,0.8);
-background-image: url("images/bg-intro-mobile.png");
+background-image: url("bg-intro-mobile.png");
     height: 100vh;
     width: 100vw;
 }
